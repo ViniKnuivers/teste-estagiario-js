@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Teste prático de JavaScript para estagiários",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "iniciar": "node index.js"
   }
